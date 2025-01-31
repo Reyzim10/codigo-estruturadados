@@ -1,6 +1,6 @@
 function insertionSort(){
     let atual;
-    let vetor = [1, 5, 2, 7, 4, 3, 8]
+    let vetor = [1, 5, 2, 7, 4, 3, 8, 6, 9]
         
     for (let i = 1; i < vetor.length; i++){
         let j = i - 1;
